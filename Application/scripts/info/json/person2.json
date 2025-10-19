@@ -1,0 +1,24 @@
+{
+  "nome": "Juliana Ferreira dos Santos",
+  "idade": 29,
+  "descricao": {
+    "cor": "clara",
+    "olhos": "verdes",
+    "cabelo": "castanho claro ondulado",
+    "altura": "1,62 m"
+  },
+  "ultima_vez_visto": {
+    "data": "2025-06-15",
+    "hora": "09:00",
+    "roupa": "blusa branca com estampa, saia jeans, sandálias pretas"
+  },
+  "ultimo_local_avistamento": "Terminal Rodoviário de Porto Alegre/RS",
+  "foto": "person2.jpeg",
+  "contato": {
+    "telefone_emergencia": "197",
+    "whatsapp": "(51) 98547-1122",
+    "responsavel": "Polícia Civil do Rio Grande do Sul"
+  },
+  "avisar_policia_imediatamente": true
+}
+

@@ -1,0 +1,24 @@
+{
+  "nome": "Carlos Eduardo Martins",
+  "idade": 42,
+  "descricao": {
+    "cor": "clara",
+    "olhos": "castanhos",
+    "cabelo": "castanho escuro curto",
+    "altura": "1,75 m"
+  },
+  "ultima_vez_visto": {
+    "data": "2025-05-28",
+    "hora": "18:30",
+    "roupa": "camisa polo cinza, calça jeans azul escuro"
+  },
+  "ultimo_local_avistamento": "Praça da Matriz, centro de Campinas/SP",
+  "foto": "person1.jpeg",
+  "contato": {
+    "telefone_emergencia": "197",
+    "whatsapp": "(19) 99876-5432",
+    "responsavel": "Polícia Civil de São Paulo"
+  },
+  "avisar_policia_imediatamente": true
+}
+
